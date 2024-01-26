@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hdway/Documents/vivado/SSM/zybo-tp1/zybo-tp1.sim/sim_1/synth/timing/xsim/test_pulse_gen_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pulse_gen
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/hdway/Documents/vivado/SSM/zybo-tp1/zybo-tp1.srcs/sim_1/imports/pulse_gen/test_pulse_gen.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_pulse_gen'
+ERROR: [VRFC 10-2927] 'pulse_gen' has only 0 generics [C:/Users/hdway/Documents/vivado/SSM/zybo-tp1/zybo-tp1.srcs/sim_1/imports/pulse_gen/test_pulse_gen.vhd:55]
+ERROR: [VRFC 10-9458] unit 'behaviour' is ignored due to previous errors [C:/Users/hdway/Documents/vivado/SSM/zybo-tp1/zybo-tp1.srcs/sim_1/imports/pulse_gen/test_pulse_gen.vhd:22]
+INFO: [VRFC 10-8704] VHDL file 'C:/Users/hdway/Documents/vivado/SSM/zybo-tp1/zybo-tp1.srcs/sim_1/imports/pulse_gen/test_pulse_gen.vhd' is ignored due to errors
