@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: FIN DE SIMULATION
+Time: 210 ns  Iteration: 0  Process: /test_pulse_gen/P_TEST  File: C:/Users/hdway/Documents/vivado/SSM/zybo_tp3/zybo_tp3.srcs/sim_1/imports/SSM/test_pulse_gen.vhd
+$finish called at time : 210 ns : File "C:/Users/hdway/Documents/vivado/SSM/zybo_tp3/zybo_tp3.srcs/sim_1/imports/SSM/test_pulse_gen.vhd" Line 88

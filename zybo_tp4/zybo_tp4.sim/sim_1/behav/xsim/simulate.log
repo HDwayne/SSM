@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: FIN DE SIMULATION
+Time: 260 us  Iteration: 0  Process: /test_log2/P_TEST  File: C:/Users/hdway/Documents/vivado/SSM/zybo_tp4/zybo_tp4.srcs/sim_1/imports/Base files/test_log2.vhd
+$finish called at time : 260 us : File "C:/Users/hdway/Documents/vivado/SSM/zybo_tp4/zybo_tp4.srcs/sim_1/imports/Base files/test_log2.vhd" Line 111

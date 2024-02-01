@@ -1,0 +1,40 @@
+
+*** Running vivado
+    with args -log cpu_package.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source cpu_package.tcl
+
+
+Commande ECHO d‚sactiv‚e.
+Commande ECHO d‚sactiv‚e.
+
+****** Vivado v2023.2.1 (64-bit)
+  **** SW Build 4081461 on Thu Dec 14 12:24:51 MST 2023
+  **** IP Build 4080415 on Thu Dec 14 21:01:57 MST 2023
+  **** SharedData Build 4077621 on Mon Dec 11 00:23:44 MST 2023
+    ** Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+    ** Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+
+source cpu_package.tcl -notrace
+create_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:10 . Memory (MB): peak = 473.305 ; gain = 183.402
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/hdway/Documents/vivado/vivado-library'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2023.2/data/ip'.
+Command: synth_design -top cpu_package -part xc7z020clg400-1
+Starting synth_design
+Attempting to get a license for feature 'Synthesis' and/or device 'xc7z020'
+INFO: [Common 17-349] Got license for feature 'Synthesis' and/or device 'xc7z020'
+INFO: [Synth 8-7079] Multithreading enabled for synth_design using a maximum of 2 processes.
+INFO: [Synth 8-7078] Launching helper process for spawning children vivado processes
+INFO: [Synth 8-7075] Helper process launched with PID 25108
+---------------------------------------------------------------------------------
+Starting Synthesize : Time (s): cpu = 00:00:07 ; elapsed = 00:00:11 . Memory (MB): peak = 941.758 ; gain = 446.980
+---------------------------------------------------------------------------------
+ERROR: [Synth 8-439] module 'cpu_package' not found
+---------------------------------------------------------------------------------
+Finished Synthesize : Time (s): cpu = 00:00:09 ; elapsed = 00:00:14 . Memory (MB): peak = 1048.145 ; gain = 553.367
+---------------------------------------------------------------------------------
+synthesize failed
+INFO: [Common 17-83] Releasing license: Synthesis
+8 Infos, 0 Warnings, 0 Critical Warnings and 2 Errors encountered.
+synth_design failed
+ERROR: [Common 17-69] Command failed: Vivado Synthesis failed
+INFO: [Common 17-206] Exiting Vivado at Thu Feb  1 17:13:29 2024...
