@@ -1,0 +1,1 @@
+constant FILENAME : string := "/home/<user>/tpvhdl/rom_file.0.txt";

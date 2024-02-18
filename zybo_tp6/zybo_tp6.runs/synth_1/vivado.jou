@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.1 (64-bit)
+# SW Build 4081461 on Thu Dec 14 12:24:51 MST 2023
+# IP Build 4080415 on Thu Dec 14 21:01:57 MST 2023
+# SharedData Build 4077621 on Mon Dec 11 00:23:44 MST 2023
+# Start of session at: Thu Feb  8 17:18:52 2024
+# Process ID: 25964
+# Current directory: C:/Users/hdway/Documents/vivado/SSM/zybo_tp6/zybo_tp6.runs/synth_1
+# Command line: vivado.exe -log memory.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source memory.tcl
+# Log file: C:/Users/hdway/Documents/vivado/SSM/zybo_tp6/zybo_tp6.runs/synth_1/memory.vds
+# Journal file: C:/Users/hdway/Documents/vivado/SSM/zybo_tp6/zybo_tp6.runs/synth_1\vivado.jou
+# Running On: LAPTOP-DWAYNE, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 4, Host memory: 25520 MB
+#-----------------------------------------------------------
+source memory.tcl -notrace

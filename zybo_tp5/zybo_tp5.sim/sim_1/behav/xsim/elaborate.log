@@ -1,0 +1,8 @@
+Vivado Simulator v2023.2.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot test_registres_behav xil_defaultlib.test_registres -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-8801] cannot find architecture 'structure' in entity 'registres' [C:/Users/hdway/Documents/vivado/SSM/zybo_tp5/zybo_tp5.srcs/sim_1/imports/Base files/test_registres.0.vhd:74]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit test_registres in library work failed.
