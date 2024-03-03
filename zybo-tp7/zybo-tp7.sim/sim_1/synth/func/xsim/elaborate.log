@@ -1,0 +1,8 @@
+Vivado Simulator v2023.2.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L work -L secureip --snapshot test_fifo_func_synth work.test_fifo -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-666] expression has 4 elements; expected 32 [C:/Users/hdway/Documents/vivado/SSM/zybo-tp7/zybo-tp7.srcs/sim_1/imports/Base files/test_fifo.0.vhd:80]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit test_fifo in library work failed.

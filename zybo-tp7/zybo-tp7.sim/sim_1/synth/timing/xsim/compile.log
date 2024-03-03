@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/hdway/Documents/vivado/SSM/zybo-tp7/zybo-tp7.sim/sim_1/synth/timing/xsim/test_fifo_time_synth.v" into library work
+INFO: [VRFC 10-311] analyzing module RAM32M_UNIQ_BASE_
+INFO: [VRFC 10-311] analyzing module RAM32M_HD61
+INFO: [VRFC 10-311] analyzing module RAM32M_HD62
+INFO: [VRFC 10-311] analyzing module RAM32M_HD63
+INFO: [VRFC 10-311] analyzing module RAM32M_HD65
+INFO: [VRFC 10-311] analyzing module RAM32X1D_UNIQ_BASE_
+INFO: [VRFC 10-311] analyzing module RAM32X1D_HD64
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/hdway/Documents/vivado/SSM/zybo-tp7/zybo-tp7.srcs/sim_1/imports/Base files/test_fifo.0.vhd" into library work
+INFO: [VRFC 10-3107] analyzing entity 'test_fifo'
+ERROR: [VRFC 10-2927] 'fifo' has only 0 generics [C:/Users/hdway/Documents/vivado/SSM/zybo-tp7/zybo-tp7.srcs/sim_1/imports/Base files/test_fifo.0.vhd:74]
+ERROR: [VRFC 10-9458] unit 'behavior' is ignored due to previous errors [C:/Users/hdway/Documents/vivado/SSM/zybo-tp7/zybo-tp7.srcs/sim_1/imports/Base files/test_fifo.0.vhd:33]
+INFO: [VRFC 10-8704] VHDL file 'C:/Users/hdway/Documents/vivado/SSM/zybo-tp7/zybo-tp7.srcs/sim_1/imports/Base files/test_fifo.0.vhd' is ignored due to errors

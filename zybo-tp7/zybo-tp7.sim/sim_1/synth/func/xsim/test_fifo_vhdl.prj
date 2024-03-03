@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl work  \
+"test_fifo_func_synth.vhd" \
+"../../../../../zybo-tp7.srcs/sim_1/imports/Base files/test_fifo.0.vhd" \
+
+# Do not sort compile order
+nosort
